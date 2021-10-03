@@ -1,3 +1,3 @@
 const a = 1200;
-const b = 12;
+const b = 112;
 console.log(a + b);
